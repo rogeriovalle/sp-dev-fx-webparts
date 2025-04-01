@@ -1,7 +1,7 @@
 @import "~@microsoft/sp-office-ui-fabric-core/dist/sass/SPFabricCore.scss";
 
 .rbc-selected-cell {
-  background-color: $ms-color-themeDark;
+  background-color: #4682B4;
 }
 
 .rbc-event:hover {
@@ -9,7 +9,7 @@
 }
 
 .rbc-today {
-  background-color: $ms-color-themeDark;
+  background-color: #4682B4;
   opacity: 0.7;
 }
 
